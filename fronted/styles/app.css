@@ -1,0 +1,12 @@
+body {
+  scroll-behavior: smooth;
+  min-height: 100vh;
+}
+
+.miticket {
+  max-height: 9rem;
+}
+.win-card {
+  width: 18rem;
+  padding: 2rem;
+}
